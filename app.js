@@ -2,6 +2,8 @@ let name = "mamadou";
 let cognome = "gningue"; 
 let matricola = "ASFREALMAMA"; 
 
+[cognome, name] = [name, cognome];
+
 console.log="name"; 
 console.log= "cognome"; 
 console.log="matricola";
